@@ -9,3 +9,7 @@ PWN虚拟机环境导出文件
 笔者自用为主，如果有同行需要的话，可以拿走
 
 另外，如果原项目作者看到本仓库，请发一下issue，我会改变此readme的内容
+
+链接：https://pan.baidu.com/s/1thRRY4N0P-puMoXM9KxiRQ 
+提取码：vlsf 
+
